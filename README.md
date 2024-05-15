@@ -1,4 +1,4 @@
-🔭 I’m currently working as a Solution Architect for AWS.
+🔭 I’m currently working as a Solution Architect.
 👯 I’m looking to collaborate on AWS Services.
 🌱 I’m currently learning MERN Stack, DevOps, and Database Migration.
 💬 Ask me about SAP, Web Hosting, and Cloud Infrastructure Architects.
